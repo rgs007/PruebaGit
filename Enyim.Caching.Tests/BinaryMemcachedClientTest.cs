@@ -6,7 +6,7 @@ namespace MemcachedTest
 {
 	/// <summary>
 	///This is a test class for Enyim.Caching.MemcachedClient and is intended
-	///to contain all Enyim.Caching.MemcachedClient Unit Tests
+	///to contain all Enyim.Caching.MemcachedClient Unit Tests. Demo
 	///</summary>
 	[TestFixture]
 	public class BinaryMemcachedClientTest : MemcachedClientTest
